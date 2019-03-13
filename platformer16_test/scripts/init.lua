@@ -1,0 +1,12 @@
+game_state = GetGameState()
+spr_manager = GetSpriteManager()
+tex_manager = GetTextureManager()
+ui_manager = GetUIManager()
+
+dofile("scripts\\textures.lua")
+dofile("scripts\\sprites.lua")
+dofile("scripts\\entity_templates.lua")
+dofile("scripts\\entity_types.lua")
+dofile("scripts\\components.lua")
+dofile("scripts\\ui.lua")
+dofile("scripts\\map_start.lua")
