@@ -2,10 +2,10 @@
 a side project of mine, written in c++ and lua
 
 # used technology
-[http://www.lua.org/](Lua 5.3)
+[Lua 5.3](http://www.lua.org/)
 
-[https://www.libsdl.org/](SDL 2.0.9)
+[SDL 2.0.9](https://www.libsdl.org/)
 
-[https://pugixml.org/](pugixml 1.9)
+[pugixml 1.9](https://pugixml.org/)
 
-[https://github.com/ThePhD/sol2](Sol v2.20)
+[Sol v2.20](https://github.com/ThePhD/sol2)
